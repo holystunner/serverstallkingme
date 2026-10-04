@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AssetType</key>
+	<string>com.apple.MobileAsset.MobileAssetBrain</string>
+	<key>Assets</key>
+	<array/>
+	<key>CachedAssetSetId</key>
+	<string>dc2cd9d5-fd0e-4029-9676-d03ce5917371</string>
+	<key>DownloadedFromLive</key>
+	<string>https://gdmf.apple.com/v2/assets</string>
+	<key>catalogInfo</key>
+	<dict>
+		<key>isLiveServer</key>
+		<true/>
+	</dict>
+	<key>lastTimeChecked</key>
+	<date>2026-09-29T03:49:00Z</date>
+	<key>postedDate</key>
+	<date>2022-06-30T00:00:00Z</date>
+</dict>
+</plist>

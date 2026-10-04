@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BootUUID</key>
+	<string>28308395-7B94-4CFB-A143-47EE3A35A100</string>
+	<key>OriginalBootManifestHash</key>
+	<data>
+	P9ipiA6+GcJgz86hlbVrZRFwJFg2o2oBBwQTum5fxvkW9X2Akv7F2nOq6nlKPG64
+	</data>
+	<key>PreviousApplyDate</key>
+	<date>2026-08-28T05:52:19Z</date>
+	<key>PreviousApplyOSEnvType</key>
+	<string>BootedOS</string>
+	<key>PreviousApplyTargetOS</key>
+	<string>25G83</string>
+	<key>PreviousRestoreDate</key>
+	<date>2026-09-06T11:36:50Z</date>
+	<key>PreviousUpdateDate</key>
+	<date>2026-08-28T05:58:12Z</date>
+	<key>PreviousUpdateState</key>
+	<integer>0</integer>
+	<key>SourceOS</key>
+	<string>24G90</string>
+	<key>ota-result</key>
+	<string>success</string>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BooteOSDREBrainAssetURL</key>
+	<string>https://mesu.apple.com/assets/macos/</string>
+	<key>BootedOSAssetAudience</key>
+	<string>60b55e25-a8ed-4f45-826c-c1495a4ccc65</string>
+	<key>BootedOSBrainURL</key>
+	<string>https://mesu.apple.com/assets/macos/</string>
+	<key>BootedOSDREBrainAssetAudience</key>
+	<string>60b55e25-a8ed-4f45-826c-c1495a4ccc65</string>
+	<key>BootedOSDocumentationURL</key>
+	<string>https://mesu.apple.com/assets/macos/</string>
+	<key>BootedOSLanguage</key>
+	<string>en</string>
+	<key>BootedOSProductVersion</key>
+	<string>26.6.2</string>
+	<key>BootedOSSUAssetURL</key>
+	<string>https://mesu.apple.com/assets/macos/</string>
+	<key>BootedOSType</key>
+	<string>BootedOSReleaseTypeUnknown</string>
+	<key>BootedOSVersion</key>
+	<string>25G83</string>
+	<key>BootedOSWatchDocumentationURL</key>
+	<string>https://mesu.apple.com/assets/macos/</string>
+</dict>
+</plist>
